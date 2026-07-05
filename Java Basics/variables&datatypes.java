@@ -1,6 +1,8 @@
 public class Variables {
     public static void main(String[] args) {
 
+        // int float -are datatypes
+        // age height -are variables
         // Integer
         int age = 20;
 
